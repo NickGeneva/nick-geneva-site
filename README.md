@@ -1,2 +1,1 @@
-# ngeneva-site
-Personal website on Github pages (version 2)
+# Nick Geneva Github Pages Site
