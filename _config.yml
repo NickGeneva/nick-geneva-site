@@ -36,7 +36,7 @@ github_username:  NickGeneva
 
 domain: nicholasgeneva.com      # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://nicholasgeneva.com  # the base hostname and protocol for your site, e.g. http://example.com
-baseurl: /nick-geneva-site/      # place folder name if the site is served in a subfolder
+# baseurl: /nick-geneva-site/  # place folder name if the site is served in a subfolder (without custom DNS this is name of repo)
 
 
 # Exclude from processing.
