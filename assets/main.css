@@ -1,11 +1,25 @@
 .vertical-flex {
-    flex: 1;
-    align-items: center;
     display: flex;
+    align-items: flex-start;
+    flex-direction: column;
     justify-content: center;
     overflow: hidden;
     word-wrap: break-word;
     height: 100%;
+}
+
+.flex-center {
+    display: flex;
+    align-items: center;
+    margin-top: auto;
+    width: 100%;
+}
+
+.flex-footer {
+    display: flex;
+    align-items: flex-end;
+    margin-top: auto;
+    width: 100%;
 }
 
 .main {
@@ -20,6 +34,10 @@
     text-align: center;
     margin-top: 8px;
     margin-bottom: 8px;
+}
+
+.tool-tip>.text{
+    text-align: left;
 }
 
 #fade-in{
