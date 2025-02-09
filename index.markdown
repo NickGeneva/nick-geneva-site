@@ -16,7 +16,7 @@ tab: Home
 </div>
 <div class="row">
     <h4 class="title-text">
-        Software Engineering at
+        Senior Software Engineer at
         <div class="cs-tooltip">
         NVIDIA
         <span style="left: 130%" class="text">
