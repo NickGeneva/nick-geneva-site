@@ -19,8 +19,8 @@ tab: Home
         Software Engineering at
         <div class="cs-tooltip">
         NVIDIA
-        <span style="left: 125%" class="text">
-            <ul style="margin-left: 10px; overflow: visible;">
+        <span style="left: 130%" class="text">
+            <ul style="margin-left: 15px; overflow: visible;">
                 <li>Modulus</li>
                 <li>Earth-2</li>
             </ul>
