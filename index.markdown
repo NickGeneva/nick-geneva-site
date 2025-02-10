@@ -45,7 +45,7 @@ tab: Home
 <div class="container" id="fade-in">
 <div class="row cs-tooltip tool-tip">
     Current Interests
-    <span style="bottom: 130%" class="text">
+    <span style="bottom: 100%; width: 300px; left: 50%; margin-left: -150px" class="text">
     Software:
     <ul style="margin-left: 15px; overflow: visible;">
         <li>Physics-informed AI</li>
